@@ -1,0 +1,113 @@
+﻿  main.cpp
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\MyTarget.h(30,11): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\MyTarget.h(31,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\MyTarget.h(41,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\MyTarget.h(48,42): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\MyTarget.h(63,27): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\MyTarget.h(63,22): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\MyTarget.h(63,17): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(43,25): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(43,50): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(43,45): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(43,40): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(46,26): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(46,51): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(46,46): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(46,41): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(49,28): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(49,22): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(49,55): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(49,49): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(49,43): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(52,29): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(52,22): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(52,56): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(52,50): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(52,44): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(58,22): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(58,48): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(58,38): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(63,25): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(64,27): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(64,22): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(64,52): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(64,42): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(67,28): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(67,22): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(67,53): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(67,43): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(70,28): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(70,22): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(70,55): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(70,49): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(70,43): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(73,29): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(73,22): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(73,56): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(73,50): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(73,44): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(78,25): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(79,22): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(79,48): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(79,43): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(79,38): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(82,28): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(82,22): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(82,55): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(82,49): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(82,43): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(85,29): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(85,22): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(85,56): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(85,50): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(85,44): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(93,30): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(95,25): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(96,25): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(97,25): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(114,38): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(161,25): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(176,25): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(180,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(181,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Assignment2\main.cpp(182,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+glew_static_vs2010_d.lib(glew.obj) : warning LNK4099: '' PDB를 'glew_static_vs2010_d.lib(glew.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_callbacks.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_callbacks.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_cursor.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_cursor.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_display.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_display.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_ext.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_ext.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_font_data.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_font_data.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_gamemode.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_gamemode.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_geometry.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_geometry.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_gl2.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_gl2.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_init.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_init.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_input_devices.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_input_devices.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_joystick.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_joystick.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_main.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_main.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_misc.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_misc.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_overlay.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_overlay.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_spaceball.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_spaceball.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_state.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_state.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_stroke_mono_roman.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_stroke_mono_roman.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_stroke_roman.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_stroke_roman.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_structure.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_structure.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_teapot.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_teapot.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_videoresize.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_videoresize.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_window.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_window.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_font.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_font.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_menu.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_menu.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_cursor_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_cursor_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_display_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_display_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_ext_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_ext_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_gamemode_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_gamemode_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_init_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_init_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_input_devices_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_input_devices_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_joystick_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_joystick_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_main_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_main_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_menu_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_menu_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_spaceball_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_spaceball_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_state_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_state_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_structure_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_structure_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_window_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_window_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(xparsegeometry_repl.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(xparsegeometry_repl.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  Assignment2.vcxproj -> C:\Users\hwang\세종대\4-2\그래픽스\Assignment2\Debug\Assignment2.exe
