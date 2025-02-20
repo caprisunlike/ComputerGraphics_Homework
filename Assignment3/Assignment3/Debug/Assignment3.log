@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\MyUtil.h(49,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(37,19): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(52,77): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(52,46): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(55,27): warning C4244: '인수': 'int'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(55,38): warning C4244: '인수': 'int'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(61,77): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(61,46): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(63,8): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(64,8): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(115,12): warning C4244: '초기화 중': '_Ty1'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(116,12): warning C4244: '초기화 중': '_Ty2'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(122,44): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(266,10): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(267,10): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(271,68): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(271,62): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(278,65): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(278,59): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(306,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(352,15): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(382,27): warning C4244: '인수': 'float'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(382,19): warning C4244: '인수': 'float'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(394,57): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(397,48): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(404,32): warning C4244: '인수': 'float'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(404,24): warning C4244: '인수': 'float'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(404,13): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(405,6): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(464,57): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(475,11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(476,12): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(486,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Assignment3\main.cpp(486,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Assignment3.vcxproj -> C:\Users\hwang\세종대\4-2\그래픽스\Assignment3\Debug\Assignment3.exe
