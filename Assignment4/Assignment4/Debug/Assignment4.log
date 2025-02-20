@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\MySphere.h(55,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\MySphere.h(56,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\MyObj.h(115,31): warning C4244: '인수': 'int'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\MyObj.h(90,7): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\MyObj.h(166,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\MyObj.h(166,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\MyObj.h(166,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\MyObj.h(170,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\MyObj.h(170,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\MyObj.h(170,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\main.cpp(85,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\main.cpp(136,53): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\main.cpp(136,48): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\main.cpp(141,54): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\main.cpp(141,47): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\main.cpp(146,52): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\main.cpp(146,47): warning C4305: '인수': 'double'에서 'const GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\main.cpp(157,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\main.cpp(162,42): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\main.cpp(200,18): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\main.cpp(246,13): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Assignment4\main.cpp(251,13): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  Assignment4.vcxproj -> C:\Users\hwang\세종대\4-2\그래픽스\Assignment4\Debug\Assignment4.exe
