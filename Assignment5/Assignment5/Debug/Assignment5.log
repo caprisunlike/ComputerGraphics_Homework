@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\MySphere.h(56,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\MySphere.h(57,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\main.cpp(63,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\main.cpp(144,110): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\main.cpp(144,65): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\main.cpp(144,41): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\main.cpp(148,47): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\main.cpp(171,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\main.cpp(171,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\main.cpp(171,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\main.cpp(173,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\main.cpp(173,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\main.cpp(173,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Assignment5\main.cpp(224,18): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+freeglut_static_vs2015_d.lib(fg_geometry.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_geometry.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_joystick.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_joystick.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_teapot.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_teapot.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_font.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_font.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_menu.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_menu.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freeglut_static_vs2015_d.lib(fg_joystick_mswin.obj) : warning LNK4099: '' PDB를 'freeglut_static_vs2015_d.lib(fg_joystick_mswin.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  Assignment5.vcxproj -> C:\Users\hwang\세종대\4-2\그래픽스\Assignment5\Debug\Assignment5.exe
