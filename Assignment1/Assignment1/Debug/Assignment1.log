@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment1\Assignment1\MyPlain.h(46,36): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment1\Assignment1\MyPlain.h(46,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hwang\세종대\4-2\그래픽스\Assignment1\Assignment1\MyPlain.h(46,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Assignment1.vcxproj -> C:\Users\hwang\세종대\4-2\그래픽스\Assignment1\Debug\Assignment1.exe
