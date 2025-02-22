@@ -1,3 +1,4 @@
+# 컴퓨터 그래픽스 과제 2024-2
 ## Assignment1
 ### Waving Plain
 - 'Space Bar'키를 누르면 plain이 회전하고 파동이 나타남
@@ -22,10 +23,10 @@ A*(a-star) Search Algorithm 구현
 
 ## Assignment4
 ### OBJ Model Viewer
-Phong illumination\n
-Phong Shading
-Flat Shading
-Perspective Projection
+Phong illumination<br/>
+Phong Shading<br/>
+Flat Shading<br/>
+Perspective Projection<br/>
 - 'Space Bar'키를 누르면 물체의 중심을 기준으로 회전
 - 마우스 왼쪽, 가운데, 오른쪽 버튼을 이용해 회전 축 변경 가능
 - 입력 받은 물체를 자동으로 화면의 가운데 위치하고 화면에 맞게 크기 조절
@@ -38,9 +39,9 @@ Perspective Projection
 
 ## Assignment5
 ### Spherical Map Viewer
-Spherical Environment Map
-Fresnel Shading
-Diffuse Map(Image Based Lighting)
+Spherical Environment Map<br/>
+Fresnel Shading<br/>
+Diffuse Map(Image Based Lighting)<br/>
 - 왼쪽 마우스 드래깅으로 좌우 위아래 둘러볼 수 있음
 - 오른쪽 마우스 드래깅으로 줌인, 줌아웃 가능
 - 'q'키를 누르면 구와 토끼 모델이 번갈아 나옴
