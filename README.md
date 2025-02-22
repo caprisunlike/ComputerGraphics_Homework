@@ -22,7 +22,7 @@ A*(a-star) Search Algorithm 구현
 
 ## Assignment4
 ### OBJ Model Viewer
-Phong illumination
+Phong illumination\n
 Phong Shading
 Flat Shading
 Perspective Projection
