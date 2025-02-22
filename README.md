@@ -1,5 +1,6 @@
 ## Assignment1
 Waving Plain
+![과제1](https://github.com/user-attachments/assets/9d92081f-3b43-4e89-abf2-30cc962824d2)
 
 ## Assignment2
 Robot Arm
